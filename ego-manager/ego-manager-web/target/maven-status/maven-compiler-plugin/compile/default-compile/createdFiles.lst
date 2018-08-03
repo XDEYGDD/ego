@@ -1,0 +1,7 @@
+cn\gzsxt\manager\controller\ContentController.class
+cn\gzsxt\manager\controller\ContentCategoryController.class
+cn\gzsxt\manager\controller\ItemController.class
+cn\gzsxt\manager\controller\ItemParmController.class
+cn\gzsxt\manager\controller\PageController.class
+cn\gzsxt\manager\controller\ItemCatController.class
+cn\gzsxt\manager\controller\FileUploadController.class
